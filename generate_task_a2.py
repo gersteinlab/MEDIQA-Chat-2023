@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModel, BartForConditionalGeneration,
 import torch
 import openai
 import re
-openai.api_key = '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'
+openai.api_key = 'YOUR_API_KEY'
 
 dialog_dict = {}
 with open(sys.argv[1]) as input_file:

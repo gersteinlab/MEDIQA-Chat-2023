@@ -2,7 +2,7 @@ import pickle
 import sys
 import csv
 import openai
-openai.api_key = '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'
+openai.api_key = 'YOUR_API_KEY'
 from nltk.tokenize import word_tokenize
 
 dialog_dict = {}
