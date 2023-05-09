@@ -4,7 +4,7 @@
 
 # Model files explanation
 - `best-84.11` / `final-roberta-classifier`: Best RoBERTa with classification head checkpoint
-- `checkpoint-600`: Best BART checkpoint trained via [CONFIT](https://github.com/XiangruTang/CONFIT) with attempt to add length as a loss
-- `checkpoint-7776`: Best BART checkpoint trained via [CONFIT](https://github.com/XiangruTang/CONFIT)
+- `checkpoint-600`: Best BART checkpoint trained with attempt to add length as a loss
+- `checkpoint-7776`: Best BART checkpoint trained 
 - `RoBERTa-base-PM-M3-Voc-distill-align-hf`: From [bio-lm](https://github.com/facebookresearch/bio-lm)
 
